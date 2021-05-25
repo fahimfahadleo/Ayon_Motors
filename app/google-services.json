@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459541165612",
+    "firebase_url": "https://ayon-motors-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ayon-motors",
+    "storage_bucket": "ayon-motors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459541165612:android:d34245a9aa3d83e8104389",
+        "android_client_info": {
+          "package_name": "com.ayonmotors.ayonmotors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459541165612-6ltl5e17o2s7s8ojs0ab0f0q3loreosm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWB0Fg__zDyoUhbQJ7i4TpQ9EmTNeQAuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459541165612-6ltl5e17o2s7s8ojs0ab0f0q3loreosm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
